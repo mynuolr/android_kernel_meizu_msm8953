@@ -1,1 +1,2 @@
-# meizu_msm8937-53_kernel_opensource
+# meizu_msm8953_kernel_opensource(mblue note6)
+This source code is only applicable to engineering packages and needs to be repaired.
